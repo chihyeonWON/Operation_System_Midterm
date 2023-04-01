@@ -72,3 +72,13 @@ Operation_System_Midterm Exam
 ```
 멀티 프로그래밍 Multi Programming
 ```
+12. 운영체제의 운용 기법 종류 중 다음 설명에 해당하는 것은?
+```
+CPU 시간을 각 프로그램에 균등하게 분할하여 모든 컴퓨터 사용자에게 동일한 서비스 제공을 목표로 한다.
+CPU 전체 사용 시간을 작은 작업 시간(time slice)으로 분할하여 그 시간만큼 번갈아 CPU를 할당하여
+각각의 작업을 처리한다.
+
+-> Time Sharing System 시분할 시스템
+```
+
+```
