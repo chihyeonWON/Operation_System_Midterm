@@ -258,4 +258,7 @@ CPU의 메이저 상태
 CPU의 4가지 단계
 Fetch, Decoding, Operand, Execute, interrupt
 ```
+6. 메모리로부터 읽혀진 명령어의 오퍼레이션코드(OP-code)는 CPU의 어느 레지스터에 들어가는가?
+```
+instruction register 인스트럭션 레지스터
 ```
