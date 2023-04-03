@@ -248,3 +248,8 @@ CPU의 메이저 상태
 2. Indirect
 3. Execute
 ```
+4. Instruction을 수행하기 위한 Major State에 대한 설명으로 가장 옳은 것은?
+```
+명령어를 가져오기 위해 기억장치에 접근하는 것을 Fetch라고 한다.
+```
+
