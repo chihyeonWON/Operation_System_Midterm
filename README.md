@@ -302,3 +302,14 @@ AC <- AC + MBR
 
 LOAD to AC
 ```
+14. 다음 인스트럭션들을 수행하였을 때 계산되는 수식은?
+```
+MOV Y,A
+SUB Y,B
+MOV T,D
+MPY T,E
+ADD T,C
+DIV Y,T
+
+-> (A-B)/(C+D*E)
+```
