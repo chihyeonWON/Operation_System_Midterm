@@ -241,3 +241,10 @@ Time Slice는 짧게 분할된 시간을 뜻한다.
 ```
 연산장치에 있는 레지스터(register)의 하나로 연산 결과를 일시적으로 기억하는 장치이다.
 ```
+3. CPU의 메이저 상태(Major State)로 볼 수 없는 것은?
+```
+CPU의 메이저 상태
+1. Fetch
+2. Indirect
+3. Execute
+```
