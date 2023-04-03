@@ -294,3 +294,11 @@ M(MAR) <- MBR : M은 메모리
 
 STORE AC
 ```
+13. 실행 사이클(execute cycle)에서 다음 마이크로 연산이 나타내는 동작은?
+```
+MAR <- MBR(addr)
+MBR <- M(MAR), AC <- 0
+AC <- AC + MBR 
+
+LOAD to AC
+```
