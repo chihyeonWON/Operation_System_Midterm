@@ -262,3 +262,8 @@ Fetch, Decoding, Operand, Execute, interrupt
 ```
 instruction register 인스트럭션 레지스터
 ```
+7. 명령어 처리를 위한 주 사이클이 아닌 것은?
+```
+명령어 처리 주 사이클
+1. 인출, 2. 간접, 3. 실행
+```
