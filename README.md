@@ -325,5 +325,7 @@ CIR (circulate right) 쉬프트 연산
 
 HLT, BUN(branch unconditionally): JP,JMP,JC 점프 명령어는 참조 명령어와 거리가 멈
 ```
-
+17. CPU 내부의 레지스터 중 프로그램 제어와 관계가 있는 것은?
+```
+Status Register
 ```
