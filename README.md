@@ -317,3 +317,13 @@ DIV Y,T
 ```
 1-주소
 ```
+16. 레지스터 참조 명령어와 거리가 먼 것은?
+```
+레지스터 참조 명령어인 것은?
+CLA (clear AC)
+CIR (circulate right) 쉬프트 연산
+
+HLT, BUN(branch unconditionally): JP,JMP,JC 점프 명령어는 참조 명령어와 거리가 멈
+```
+
+```
