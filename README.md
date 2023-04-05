@@ -351,3 +351,7 @@ Status Register
 ```
 직접 주소
 ```
+25. 다음 중 피연산자의 위치(기억장소)에 따라 명령어 형식을 분류할 때 instruction cycle time이 가장 짧은 것은?
+```
+스택(stack)
+```
